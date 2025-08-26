@@ -8,7 +8,7 @@ Mechanical Engineer | Tech Enthusiast | AI & ML Explorer
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,mongodb,mysql,java,js,nextjs,html,css,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,scikitlearn,mongodb,mysql,java,js,nextjs,html,css,notion)](https://skillicons.dev)
 
 
 
