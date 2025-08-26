@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=386ec7&section=header&reversal=false&textBg=false" alt="header"/> 
+<a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FF6B98&width=435&lines=Hey%2C+it's+Sneaky!" alt="Typing SVG" />
 
-<!--
-**Sneakyboss221/Sneakyboss221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
 
-Here are some ideas to get you started:
+## About Me:
+Mechanical Engineer | Tech Enthusiast | AI & ML Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,mongodb,mysql,java,js,nextjs,html,css,notion)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=386ec7&section=footer&reversal=false&textBg=false" alt="footer"/>
+
+
