@@ -19,7 +19,7 @@
     <td width="50%" valign="top" align="center">
       <img src="assets/ascii-art.png" alt="ASCII Art" width="100%"/>
     </td>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="left" style="font-size: 16px; line-height: 1.6;">
       I build backend systems, software infrastructure, and intelligent tools, with a focus on orchestration, reverse engineering, and automation.
       <br/><br/>
       My interests span distributed systems, systems programming, information retrieval, agent architectures, and computational tooling. I enjoy understanding how things work under the hood and building across different layers of abstraction.
