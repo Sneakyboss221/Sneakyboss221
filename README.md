@@ -2,7 +2,7 @@
 
   <img src="assets/banner.png" alt="Sanjit Patibanda - Systems &amp; Software Engineer" width="100%" />
 
-  <p style="margin-top: 12px; margin-bottom: 8px;"><font size="4"><b>✧ AI Research, Robotics &amp; Developer Infrastructure ✧</b></font></p>
+  <p style="margin-top: 14px; margin-bottom: 10px;"><font size="5"><b>✧ AI Research, Robotics &amp; Developer Infrastructure ✧</b></font></p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E%20building%20systems%20that%20make%20intelligence%20useful_;%3E%20agent%20runtimes%20%7C%20data%20pipelines%20%7C%20automation_;%3E%20turning%20unstructured%20chaos%20into%20clarity_" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=40&lines=%E2%9C%A7+About+Me" alt="About Me Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&height=50&lines=%E2%9C%A7+About+Me" alt="About Me Header" />
 </div>
 
 <br />
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=%E2%9C%A7+Tech+Stack+%26+Infrastructure" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A7+Tech+Stack+%26+Infrastructure" alt="Tech Stack Header" />
 
   <br />
 
@@ -83,7 +83,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=%E2%9C%A7+Contribution+Metrics" alt="Contribution Metrics Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=50&lines=%E2%9C%A7+Contribution+Metrics" alt="Contribution Metrics Header" />
 </div>
 
 <br />
