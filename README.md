@@ -3,8 +3,8 @@
   <img src="assets/banner.png" alt="Sanjit Patibanda - Systems &amp; Software Engineer" width="100%" />
 
   <h3 align="center">
-  ✧ AI Research, Robotics &amp; Developer Infrastructure ✧
-</h3>
+    ✧ AI Research, Robotics &amp; Developer Infrastructure ✧
+  </h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E%20building%20systems%20that%20make%20intelligence%20useful_;%3E%20agent%20runtimes%20%7C%20data%20pipelines%20%7C%20automation_;%3E%20turning%20unstructured%20chaos%20into%20clarity_" alt="Typing SVG" />
@@ -27,16 +27,17 @@
 <br />
 
 <div>
-  <img src="assets/ascii-art.png" alt="ASCII Art" width="38%" align="left" style="margin-right: 24px;" />
-  <p style="font-size: 17px; line-height: 1.7; margin-top: 0;">
-    <b>I build backend systems, software infrastructure, and intelligent tools</b>, with a focus on orchestration, reverse engineering, and automation.
-  </p>
-  <p style="font-size: 17px; line-height: 1.7;">
-    My interests span <b>distributed systems, systems programming, information retrieval, agent architectures</b>, and computational tooling. I enjoy understanding how things work under the hood and building across different layers of abstraction.
-  </p>
-  <p style="font-size: 17px; line-height: 1.7;">
-    I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
-  </p>
+  <img src="assets/ascii-art.png" alt="ASCII Art" width="45%" align="left" style="margin-right: 20px;" />
+  <br />
+  <font size="4">
+    <p style="line-height: 1.6;">
+      <b>I build backend systems, software infrastructure, and intelligent tools</b>, with a focus on orchestration, reverse engineering, and automation.
+      <br/><br/>
+      My interests span <b>distributed systems, systems programming, information retrieval, agent architectures</b>, and computational tooling. I enjoy understanding how things work under the hood and building across different layers of abstraction.
+      <br/><br/>
+      I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
+    </p>
+  </font>
 </div>
 
 <br clear="all" />
