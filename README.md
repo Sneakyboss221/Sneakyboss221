@@ -12,6 +12,12 @@
 
 <br />
 
+<div align="center">
+  <img src="assets/banner.webp" width="100%" alt="Divider" />
+</div>
+
+<br />
+
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
@@ -26,6 +32,13 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+<div align="center">
+  <img src="assets/banner.webp" width="100%" alt="Divider" />
+</div>
+
 <br />
 
 <div align="center">
@@ -54,6 +67,20 @@
   </a>
 
 </div>
+
+<br />
+
+<div align="center">
+  <img src="assets/banner.webp" width="100%" alt="Divider" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>✧ Contribution Metrics</h2>
+</div>
+
+<br />
 
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
