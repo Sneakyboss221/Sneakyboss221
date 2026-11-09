@@ -28,3 +28,31 @@
     </td>
   </tr>
 </table>
+<br />
+
+<div align="center">
+
+  <h2>✧ Tech Stack &amp; Infrastructure</h2>
+
+  <br />
+
+  <p><b>Languages &amp; Core Systems</b></p>
+  <a href="https://stack.rajinkhan.com/?i=python%2Crust%2Cgo%2Cjavascript%2Ctypescript%2Cc%2Ccplusplus%2Cgnubash%2Cubuntu%2Csql%2Clatex%2Cjson&t=transparent&d=right">
+    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=python%2Crust%2Cgo%2Cjavascript%2Ctypescript%2Cc%2Ccplusplus%2Cgnubash%2Cubuntu%2Csql%2Clatex%2Cjson&t=transparent&d=right" alt="Tech stack: Languages & Core Systems" />
+  </a>
+
+  <br />
+
+  <p><b>Frameworks, Databases &amp; Infrastructure</b></p>
+  <a href="https://stack.rajinkhan.com/?i=react%2Cnextdotjs%2Cfastapi%2Cflask%2Cdjango%2Cnodedotjs%2Credis%2Cpostgresql%2Csqlite%2Cdocker%2Capachekafka%2Cgit%2Cgithubactions%2Cnginx&t=transparent&d=right">
+    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=react%2Cnextdotjs%2Cfastapi%2Cflask%2Cdjango%2Cnodedotjs%2Credis%2Cpostgresql%2Csqlite%2Cdocker%2Capachekafka%2Cgit%2Cgithubactions%2Cnginx&t=transparent&d=right" alt="Tech stack: Frameworks, Databases & Infrastructure" />
+  </a>
+
+  <br />
+
+  <p><b>AI, Machine Learning, Agent Tooling &amp; Robotics</b></p>
+  <a href="https://stack.rajinkhan.com/?i=pytorch%2Ctensorflow%2Ckeras%2Cscikitlearn%2Chuggingface%2Copencv%2Clangchain%2Clanggraph%2Collama%2Carduino%2Craspberrypi&t=transparent&d=right">
+    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=pytorch%2Ctensorflow%2Ckeras%2Cscikitlearn%2Chuggingface%2Copencv%2Clangchain%2Clanggraph%2Collama%2Carduino%2Craspberrypi&t=transparent&d=right" alt="Tech stack: AI, Machine Learning, Agent Tooling & Robotics" />
+  </a>
+
+</div>
