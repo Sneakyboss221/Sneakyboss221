@@ -101,3 +101,15 @@
 </picture>
 </p>
 <!-- cool-readme:end -->
+
+<br />
+
+<div align="center">
+  <img src="assets/banner.webp" width="100%" alt="Divider" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/cat.jpg" width="100%" alt="Footer Image" />
+</div>
