@@ -1,10 +1,14 @@
 <div align="center">
 
-  <img src="assets/banner.png" alt="Sanjit Patibanda - Systems &amp; Software Engineer" width="100%" />
+  <img src="assets/banner.png" alt="Sanjit Patibanda - Systems &amp; Software Engineer" width="100%" />
 
-  <h3 align="center">
-  ✧ AI Research, Robotics &amp; Developer Infrastructure ✧
-</h3>
+  <p style="margin-top: 6px; margin-bottom: 8px;"><font size="4"><b>✧ AI Research, Robotics &amp; Developer Infrastructure ✧</b></font></p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E%20building%20systems%20that%20make%20intelligence%20useful_;%3E%20agent%20runtimes%20%7C%20data%20pipelines%20%7C%20automation_;%3E%20turning%20unstructured%20chaos%20into%20clarity_" alt="Typing SVG" />
+  </a>
+
+</div>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E%20building%20systems%20that%20make%20intelligence%20useful_;%3E%20agent%20runtimes%20%7C%20data%20pipelines%20%7C%20automation_;%3E%20turning%20unstructured%20chaos%20into%20clarity_" alt="Typing SVG" />
@@ -91,25 +95,24 @@
 <br />
 
 <!-- cool-readme:start -->
-<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/summary-light.svg" width="400" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/summary-light.svg" width="48%" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/languages-light.svg" width="400" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/languages-light.svg" width="48%" alt="Most used languages">
 </picture>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/weekly-light.svg" width="48%" alt="Weekly rhythm">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/streaks-dark.svg">
-  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/streaks-light.svg" width="400" alt="Streaks">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sneakyboss221/Sneakyboss221/cards/streaks-light.svg" width="48%" alt="Streaks">
 </picture>
 </p>
 <!-- cool-readme:end -->
