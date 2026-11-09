@@ -18,12 +18,18 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
+<div align="center">
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">✧ About Me</p>
+</div>
+
+<br />
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" align="center" style="border: none;">
       <img src="assets/ascii-art.png" alt="ASCII Art" width="100%"/>
     </td>
-    <td width="50%" valign="middle" align="left" style="font-size: 16px; line-height: 1.6;">
+    <td width="50%" valign="middle" align="left" style="font-size: 16px; line-height: 1.6; border: none;">
       I build backend systems, software infrastructure, and intelligent tools, with a focus on orchestration, reverse engineering, and automation.
       <br/><br/>
       My interests span distributed systems, systems programming, information retrieval, agent architectures, and computational tooling. I enjoy understanding how things work under the hood and building across different layers of abstraction.
@@ -43,27 +49,27 @@
 
 <div align="center">
 
-  <h2>✧ Tech Stack &amp; Infrastructure</h2>
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">✧ Tech Stack &amp; Infrastructure</p>
 
   <br />
 
-  <p><b>Languages &amp; Core Systems</b></p>
+  <p style="font-size: 20px; font-weight: bold; margin-top: 14px; margin-bottom: 10px;">Languages &amp; Core Systems</p>
   <a href="https://stack.rajinkhan.com/?i=python%2Crust%2Cgo%2Cjavascript%2Ctypescript%2Cc%2Ccplusplus%2Cgnubash%2Cubuntu%2Csql%2Clatex%2Cjson&t=transparent&d=right">
-    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=python%2Crust%2Cgo%2Cjavascript%2Ctypescript%2Cc%2Ccplusplus%2Cgnubash%2Cubuntu%2Csql%2Clatex%2Cjson&t=transparent&d=right" alt="Tech stack: Languages & Core Systems" />
+    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=python%2Crust%2Cgo%2Cjavascript%2Ctypescript%2Cc%2Ccplusplus%2Cgnubash%2Cubuntu%2Csql%2Clatex%2Cjson&t=transparent&d=right&perline=6" alt="Tech stack: Languages & Core Systems" />
   </a>
 
   <br />
 
-  <p><b>Frameworks, Databases &amp; Infrastructure</b></p>
+  <p style="font-size: 20px; font-weight: bold; margin-top: 18px; margin-bottom: 10px;">Frameworks, Databases &amp; Infrastructure</p>
   <a href="https://stack.rajinkhan.com/?i=react%2Cnextdotjs%2Cfastapi%2Cflask%2Cdjango%2Cnodedotjs%2Credis%2Cpostgresql%2Csqlite%2Cdocker%2Capachekafka%2Cgit%2Cgithubactions%2Cnginx&t=transparent&d=right">
-    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=react%2Cnextdotjs%2Cfastapi%2Cflask%2Cdjango%2Cnodedotjs%2Credis%2Cpostgresql%2Csqlite%2Cdocker%2Capachekafka%2Cgit%2Cgithubactions%2Cnginx&t=transparent&d=right" alt="Tech stack: Frameworks, Databases & Infrastructure" />
+    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=react%2Cnextdotjs%2Cfastapi%2Cflask%2Cdjango%2Cnodedotjs%2Credis%2Cpostgresql%2Csqlite%2Cdocker%2Capachekafka%2Cgit%2Cgithubactions%2Cnginx&t=transparent&d=right&perline=7" alt="Tech stack: Frameworks, Databases & Infrastructure" />
   </a>
 
   <br />
 
-  <p><b>AI, Machine Learning, Agent Tooling &amp; Robotics</b></p>
+  <p style="font-size: 20px; font-weight: bold; margin-top: 18px; margin-bottom: 10px;">AI, Machine Learning, Agent Tooling &amp; Robotics</p>
   <a href="https://stack.rajinkhan.com/?i=pytorch%2Ctensorflow%2Ckeras%2Cscikitlearn%2Chuggingface%2Copencv%2Clangchain%2Clanggraph%2Collama%2Carduino%2Craspberrypi&t=transparent&d=right">
-    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=pytorch%2Ctensorflow%2Ckeras%2Cscikitlearn%2Chuggingface%2Copencv%2Clangchain%2Clanggraph%2Collama%2Carduino%2Craspberrypi&t=transparent&d=right" alt="Tech stack: AI, Machine Learning, Agent Tooling & Robotics" />
+    <img src="https://stack.rajinkhan.com/v1/stack.svg?i=pytorch%2Ctensorflow%2Ckeras%2Cscikitlearn%2Chuggingface%2Copencv%2Clangchain%2Clanggraph%2Collama%2Carduino%2Craspberrypi&t=transparent&d=right&perline=6" alt="Tech stack: AI, Machine Learning, Agent Tooling & Robotics" />
   </a>
 
 </div>
@@ -77,7 +83,7 @@
 <br />
 
 <div align="center">
-  <h2>✧ Contribution Metrics</h2>
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">✧ Contribution Metrics</p>
 </div>
 
 <br />
