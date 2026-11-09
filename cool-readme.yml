@@ -1,10 +1,10 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: Sneakyboss221
-show: [summary, languages, contributions, weekly, streaks]
+show: [summary, languages, weekly, streaks]
 count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
+  style: classic
   color: github
   background: none
