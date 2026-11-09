@@ -22,15 +22,17 @@
 
 <div>
   <img src="assets/ascii-art.png" alt="ASCII Art" width="45%" align="left" style="margin-right: 20px;" />
-  <font size="4">
-    <p style="line-height: 1.6; margin-top: 0;">
+  <div align="center" style="font-size: 15px; line-height: 1.6;">
+    <p style="margin-top: 10px; margin-bottom: 18px;">
       <b>I build backend systems, software infrastructure, and intelligent tools</b>, with a focus on orchestration, reverse engineering, and automation.
-      <br/><br/>
+    </p>
+    <p style="margin-bottom: 18px;">
       My interests span <b>distributed systems, systems programming, information retrieval, agent architectures</b>, and computational tooling. I enjoy understanding how things work under the hood and building across different layers of abstraction.
-      <br/><br/>
+    </p>
+    <p style="margin-bottom: 0;">
       I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
     </p>
-  </font>
+  </div>
 </div>
 
 <br clear="all" />
